@@ -1,0 +1,16 @@
+1. view page
+   - create views dir
+    - create "home.erb" file
+      - within this file, display the texts as "ul" html elements
+   - include erubis in gemfile, require erubis in cms.rb
+
+2. call home.erb within "/"
+
+===============
+
+1. insert anchor elements to the list elements in "index.erb"
+2. create routes for each of the text files
+
+===============
+
+1. display sign in page instead of index erb for homepage
