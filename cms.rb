@@ -59,7 +59,7 @@ get "/" do
   erb :index
 end
 
-#  view signin page
+# view signin page
 get "/users/signin" do
   erb :signin
 end
